@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Charan kummari</h1>
+<h1 align="center">Hello 👋, I'm Sai Charan kummari</h1>
 <h3 align="center">Iam a self-taught software developer and an interdisciplinary engineer in the fields of ML/AI with a thought process to explore new skill sets and knowledge Tech Enthusiast. I Learn it , if it intrests me.</h3>
 
 <h3 align="left">Connect with me:</h3>
