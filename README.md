@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Charan kumm</h1>
+<h1 align="center">Hi 👋, I'm Sai Charan kummari</h1>
 <h3 align="center">Iam a self-taught software developer and an interdisciplinary engineer in the fields of ML/AI with a thought process to explore new skill sets and knowledge Tech Enthusiast. I Learn it , if it intrests me.</h3>
 
 <p align="left"> <a href="https://twitter.com/saichar60999991" target="blank"><img src="https://img.shields.io/twitter/follow/saichar60999991?logo=twitter&style=for-the-badge" alt="saichar60999991" /></a> </p>
